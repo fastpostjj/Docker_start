@@ -54,7 +54,7 @@ __в другом терминале:__
 
     docker ps -a
 
--   подключаемся к базе данных postgres в контейнере  dz_27_1
+-   подключаемся к базе данных postgres в контейнере  domz_27_1
 
     docker exec -it domz_27_1 psql -U postgres
 
